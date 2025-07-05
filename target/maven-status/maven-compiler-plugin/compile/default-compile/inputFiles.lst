@@ -1,0 +1,14 @@
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/App.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/service/CheckoutService.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/service/ShippingService.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/behaviour/Shippable.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/behaviour/NonExpirable.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/behaviour/ExpiryPolicy.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/model/ShippingItem.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/behaviour/ShippingPolicy.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/model/Cart.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/behaviour/ShippingServiceInterface.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/model/Customer.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/behaviour/NonShippable.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/model/Product.java
+/home/omargamal/projects/fawry-assessment/fawry-ecommerce-assessment/src/main/java/com/example/behaviour/Expirable.java
